@@ -8,6 +8,6 @@
 
 - Start docker "docker-compose -f docker-compose-redis.yaml up -d"
 
-- Install modules "npm inatsll"
+- Install modules "npm install"
 
 - Run program "npm start"
